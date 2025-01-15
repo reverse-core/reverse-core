@@ -8,4 +8,4 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=exotic-inx alt=exotic-inx /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exotic-inx&layout=compact&theme=dark)](https://github.com/exotic-inx/exotic-inx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reverse-core&layout=compact&theme=dark)](https://github.com/reverse-core/reverse-core)
